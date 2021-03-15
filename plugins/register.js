@@ -26,8 +26,8 @@ User kamu Dibawah 👇
 │ ➢ SN: ${sn}
 │ ➢ Command To Help *_#menu_*
 │
-╰➢ Follow Instagram: *@arpunchs*
-╰➢  YouTube: *Drawl Nag*
+╰➢ Follow Instagram: *@junaediiii7_*
+╰➢  YouTube: *junaedi indra saputra*
 ╰━⋆⃟⊱๑⋆⃟⊱๑ ⋆⃟⊱๑⋆⃟⊱๑⋆⃟⊱๑⋆⃟⊱๑๑⋆⃟╯
 `.trim())
 }
