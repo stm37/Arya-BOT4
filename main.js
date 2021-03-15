@@ -239,7 +239,7 @@ conn.handler = async function (m) {
           console.log(e)
           if (e) m.reply(util.format(e))
         } finally {
-          if (m.limit) m.reply(+ m.limit + ' Limit terpakai, mangkane ojok nyepam isok ae" boros paketan')
+          if (m.limit) m.reply(+ m.limit + ' Limit terpakai, prosesnya 1 menit anjj jadi sabar aja')
         }
   			break
   		}
@@ -284,7 +284,7 @@ conn.handler = async function (m) {
     }
   }
 }
-conn.welcome = 'Hai, @user👋\nSelamat datang di grup @subject💖\n\n*[ SOSMED BOT ]*\nWajib di Follow!\n*Instagram:* @arpunchs\n*Youtube:* Drawl Nag'
+conn.welcome = 'Hai, @user👋\nSelamat datang di grup @subject💖\n\n*[ SOSMED BOT ]*\nWajib di Follow!\n*Instagram:* @junaediiii7_\n*Youtube:* junaedi indra saputra'
 conn.bye = 'Selamat tinggal @user!\n\nKami akan mengenang jasamu ✨\n*Jika sering komen/Nimbrung*'
 conn.onAdd = async function ({ m, participants }) {
   let chat = global.DATABASE._data.chats[m.key.remoteJid]
@@ -366,7 +366,7 @@ global.dfail = (type, m, conn) => {
     rowner: 'Perintah ini hanya dapat digunakan oleh _*OWNER NfQ!*_',
     owner: 'Perintah ini hanya dapat digunakan oleh _*Owner Bot*_!',
     mods: 'Perintah ini hanya dapat digunakan oleh _*Moderator*_ !',
-    premium: 'Perintah ini hanya untuk member _*Premium*_ !\nIngin beli? Segera ketik *#premium*\nDi Instagram: *@arpunchs*',
+    premium: 'Perintah ini hanya untuk member _*Premium*_ !\nIngin beli? Segera ketik *#premium*\nDi Instagram: *@junaediiii7_*',
     group: 'Perintah ini hanya dapat digunakan di grup!',
     private: 'Perintah ini hanya dapat digunakan di Chat Pribadi!',
     admin: 'Perintah ini hanya untuk *Admin* grup!',
